@@ -1,0 +1,157 @@
+{
+    "vetOffice": "Paws N Claws",
+    "vetOfficeAddress": "1234 Main St. \n Chicago, IL",
+    "vetName": "Joseph R. Wilkes",
+    "patients": [
+        {
+            "name": "Deanna",
+            "species": "Alpaca",
+            "age": 9,
+            "adoptionDate": "2021-01-16"
+        },
+        {
+            "name": "Jose",
+            "species": "Llama",
+            "age": 5,
+            "adoptionDate": "2021-06-19"
+        },
+        {
+            "name": "Sarah",
+            "species": "Llama",
+            "age": 7,
+            "adoptionDate": "2021-10-14"
+        },
+        {
+            "name": "Miguel",
+            "species": "Dog",
+            "age": 6,
+            "adoptionDate": "2021-05-31"
+        },
+        {
+            "name": "Timothy",
+            "species": "guinea pig",
+            "age": 2,
+            "adoptionDate": "2021-02-11"
+        },
+        {
+            "name": "Megan",
+            "species": "Sheep",
+            "age": 4,
+            "adoptionDate": "2021-06-23"
+        },
+        {
+            "name": "Nicholas",
+            "species": "Alpaca",
+            "age": 10,
+            "adoptionDate": "2021-08-01"
+        },
+        {
+            "name": "Brian",
+            "species": "Sheep",
+            "age": 2,
+            "adoptionDate": "2021-09-05"
+        },
+        {
+            "name": "Tamara",
+            "species": "Donkey",
+            "age": 2,
+            "adoptionDate": "2021-10-24"
+        },
+        {
+            "name": "Julie",
+            "species": "Bird",
+            "age": 3,
+            "adoptionDate": "2021-10-05"
+        },
+        {
+            "name": "John",
+            "species": "hamster",
+            "age": 3,
+            "adoptionDate": "2021-11-16"
+        },
+        {
+            "name": "Michael",
+            "species": "Bird",
+            "age": 5,
+            "adoptionDate": "2021-05-06"
+        },
+        {
+            "name": "Christy",
+            "species": "gerbil",
+            "age": 5,
+            "adoptionDate": "2021-01-06"
+        },
+        {
+            "name": "Cynthia",
+            "species": "gerbil",
+            "age": 1,
+            "adoptionDate": "2021-04-11"
+        },
+        {
+            "name": "Mark",
+            "species": "Fish",
+            "age": 3,
+            "adoptionDate": "2021-09-30"
+        },
+        {
+            "name": "Samantha",
+            "species": "Pig",
+            "age": 3,
+            "adoptionDate": "2021-03-08"
+        },
+        {
+            "name": "Jason",
+            "species": "Horse",
+            "age": 5,
+            "adoptionDate": "2021-05-05"
+        },
+        {
+            "name": "Nancy",
+            "species": "Red fox",
+            "age": 10,
+            "adoptionDate": "2021-07-14"
+        },
+        {
+            "name": "Bradley",
+            "species": "Hedgehog",
+            "age": 3,
+            "adoptionDate": "2021-08-09"
+        },
+        {
+            "name": "Alison",
+            "species": "Pig",
+            "age": 6,
+            "adoptionDate": "2021-09-09"
+        },
+        {
+            "name": "Sherri",
+            "species": "Sugar glider",
+            "age": 4,
+            "adoptionDate": "2021-07-21"
+        },
+        {
+            "name": "Lauren",
+            "species": "Alpaca",
+            "age": 3,
+            "adoptionDate": "2021-05-07"
+        },
+        {
+            "name": "Cheryl",
+            "species": "Goat",
+            "age": 8,
+            "adoptionDate": "2021-10-17"
+        },
+        {
+            "name": "Jennifer",
+            "species": "Sheep",
+            "age": 8,
+            "adoptionDate": "2021-02-27"
+        },
+        {
+            "name": "Brian",
+            "species": "Monkey",
+            "age": 7,
+            "adoptionDate": "2021-08-25"
+        }
+    ]
+}

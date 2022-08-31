@@ -1,0 +1,12 @@
+{
+    "name": "Bruno",
+    "species": "Cat",
+    "age": 5,
+    "adopted": "Y",
+    "adoptionDate": "05-05-21",
+    "treatments": [
+        "neutered",
+        "microchipped",
+        "vaccinated"
+    ]
+}

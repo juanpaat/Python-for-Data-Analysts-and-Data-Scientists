@@ -1,0 +1,29 @@
+{
+    "vetOffice": "Paws N Claws",
+    "vetOfficeAddress": "1234 Main St. \n Chicago, IL",
+    "vetName": "Joseph R. Wilkes",
+    "patients": [
+        {
+            "name": "Bruno",
+            "species": "Cat",
+            "age": 5,
+            "adopted": "Y",
+            "adoptionDate": "05-05-21",
+            "treatments": [
+                "neutered",
+                "microchipped",
+                "vaccinated"
+            ]
+        },
+        {
+            "name": "Cletus",
+            "species": "Dog",
+            "age": 2,
+            "adopted": "N",
+            "adoptionDate": null,
+            "treatments": [
+                "flea/tick"
+            ]
+        }
+    ]
+}
